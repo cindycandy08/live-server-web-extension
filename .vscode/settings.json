@@ -1,14 +1,15 @@
-{
-    "markdown.preview.fontSize": 13,
-    "[markdown]": {
-        "editor.fontSize": 14,
-        "editor.wordWrap": "off",
-        "files.trimTrailingWhitespace": false,
-        "editor.minimap.enabled": false
-    },
-    // "liveServer.settings.proxy": {
-    //     "enable": true,
-    //     "baseUri": "/",
-    //     "proxyUri": "http://127.0.0.1:80"
-    // }
-}
+{                                                                                                                         1,     {
+    "markdown.preview.fontSize": 13,                                                                                      2,            "markdown . preview . fontSize";   13,
+    "[markdown]": {                                                                                                       3,            "[markdown]":  {
+        "editor.fontSize": 14,                                                                                            4,                  "editor . fontSize": 14,
+        "editor.wordWrap": "off",                                                                                         5,                  "editor .wordWrap" : 'off" ,
+        "files.trimTrailingWhitespace": false,                                                                            6,                  "files.trimtrailingWhitespace" ; false,
+        "editor.minimap.enabled": false                                                                                   7,                 "editor.minimap.enabled" : false,
+    },                                                                                                                    8,            },
+    // "liveServer.settings.proxy": {                                                                                     9,            // "liveServer.settings.proxy" :  {
+    //     "enable": true,                                                                                               10,            //      "enable" : true,     
+    //     "baseUri": "/",                                                                                               11,            //      "baseUri": "/",
+    //     "proxyUri": "http://127.0.0.1:80"                                                                             12,            //      "proxyUri": "http://127.0.0.1:80"
+    // }                                                                                                                 13,            //  }
+}                                                                                                                        14,      } 
+                                                                                                                         15,
